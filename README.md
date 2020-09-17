@@ -5,7 +5,7 @@
 
 ## Installing :
 Clone the project.
-git clone git clone https://github.com/YulitaGap/makeWithBash.git
+git clone https://github.com/YulitaGap/makeWithBash.git
 
 ## Usage
 make [options] [target]
